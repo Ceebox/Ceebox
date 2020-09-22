@@ -2,7 +2,7 @@
 
 ## This is Chadderbox.
 
-### I am a Indie Game Developer. I am also very interested Maths, Programming and Physics. I live in the UK and love Hockey and Video Games.
+### I make games. I am also interested in Maths, Programming and Physics. I live in the UK and love Hockey and Video Games.
 
 - 🔭 I’m currently working on YouTube videos and games.
 - ⚡ Fun fact: I don't know what I am doing.
