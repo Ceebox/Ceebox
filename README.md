@@ -12,4 +12,4 @@
 - [YouTube](https://www.youtube.com/chadderbox/)
 - [Twitter](https://twitter.com/ChadderboxYT)
 - [GitHub](https://github.com/Ceebox)
-- [itch](https:/chadderbox.itch.io)
+- [Itch](https:/chadderbox.itch.io)
