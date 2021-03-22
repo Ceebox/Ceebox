@@ -5,7 +5,7 @@
 ### I make games. I am also interested in Maths, Programming and Physics. I live in the UK and love Hockey and Video Games.
 
 [![](https://github-readme-stats.vercel.app/api?username=Ceebox)]()
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceebox&layout=compact)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceebox&layout=compact)]()
 
 ### Follow me here:  
 
