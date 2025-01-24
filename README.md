@@ -16,7 +16,6 @@ I make video games and YouTube videos (and occasionally useful applications).
 <img src="https://img.shields.io/github/stars/ceebox?style=for-the-badge&labelColor=%23232323&color=ffd52b">
 </a>
 </p>
-
 <hr>
 
 <h3 align="center">
