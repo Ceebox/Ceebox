@@ -16,7 +16,9 @@ I make video games and YouTube videos (and occasionally useful applications).
 <img src="https://img.shields.io/github/stars/ceebox?style=for-the-badge&labelColor=%23232323&color=ffd52b">
 </a>
 </p>
-<hr>
+
+<!-- Fake Horizontal Rule -->
+<h1></h1>
 
 <h3 align="center">
 Find me on the Internet: 
@@ -35,4 +37,6 @@ Find me on the Internet:
 <a href="https://www.youtube.com/chadderbox">
 <img src="https://img.shields.io/badge/-%20GitHub%20-%20A?style=for-the-badge&logo=github&logoColor=fafafa&logoSize=32&labelColor=232323&color=ffd52b">
 </a>
-<hr>
+
+<!-- Fake Horizontal Rule -->
+<h1></h1>
