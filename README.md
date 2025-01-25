@@ -22,7 +22,7 @@ Find me on the Internet:
     <a href="https://www.youtube.com/chadderbox"><img src="https://img.shields.io/badge/-%20YouTube%20%20-%20A?style=for-the-badge&logo=youtube&logoColor=fafafa&logoSize=32&labelColor=232323&color=f15a76"></a>
     <a href="https://chadderbox.itch.io/"><img src="https://img.shields.io/badge/-%20Itch%20-%20A?style=for-the-badge&logo=itchdotio&logoColor=fafafa&labelColor=232323&color=8bf177"></a>
     <a href="https://store.steampowered.com/developer/chadderbox"><img src="https://img.shields.io/badge/-%20Steam%20-%20A?style=for-the-badge&logo=steam&logoColor=fafafa&labelColor=232323&color=4ce1fa"></a>
-    <a href="https://www.youtube.com/chadderbox"><img src="https://img.shields.io/badge/-%20GitHub%20-%20A?style=for-the-badge&logo=github&logoColor=fafafa&logoSize=32&labelColor=232323&color=ffd52b"></a>
+    <a href="https://github.com/ceebox/"><img src="https://img.shields.io/badge/-%20GitHub%20-%20A?style=for-the-badge&logo=github&logoColor=fafafa&logoSize=32&labelColor=232323&color=ffd52b"></a>
 </p>
 
 <!-- Fake Horizontal Rule -->
